@@ -25,6 +25,9 @@ I enjoy turning ideas into real products using modern web technologies.
 - React.js
 - Redux
 - Material UI
+- Axios.js
+- moment.js
+- i18next.js
 
 **Tools & Others**
 - Git & GitHub
