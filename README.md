@@ -72,8 +72,8 @@ Displays prayer times with multilingual support.
 ## 📫 Contact Me
 
 - GitHub: https://github.com/MOSTAFA-GOHR
-- LinkedIn: (add if you have one)
-- Email: (optional)
+- LinkedIn:www.linkedin.com/in/mostafa-gohr
+- Email: mostafa96.gohr@gmail.com
 
 ---
 
