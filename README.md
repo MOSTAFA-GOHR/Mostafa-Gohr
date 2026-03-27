@@ -23,6 +23,7 @@ I enjoy turning ideas into real products using modern web technologies.
 - HTML5, CSS3, Bootstrap
 - JavaScript (ES6+)
 - React.js
+- React Router
 - Redux
 - Material UI
 - Axios.js
